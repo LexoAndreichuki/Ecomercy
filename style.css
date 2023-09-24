@@ -54,4 +54,56 @@ justify-content: space-between;
     color: #efefef;
     font-weight: bold;
 }
+.Homediv {
+    width: 100vw;
+    height: 880px;
+    display: flex;
+    justify-content: space-between;
+}
+.txt {
+    width: 767px;
+    height:880px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 100px;
+    padding-top: 100px;
 
+}
+.php {
+    width: 767px;
+    height: 880px;
+}
+.welcome {
+    color: #23A6F0;
+    
+}
+h1 {
+    color: #ffff;
+}
+h4 {
+    color: #ffff;
+}
+.get {
+    width: 100px;
+    height: 40px;
+    background: #23A6F0;
+    color: #ffff;
+    border-style: none;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 3px;
+}
+.learnmore {
+    width: 100px;
+    height: 40px;
+    background: none;
+    border: 1px solid #23A6F0;
+    color: #23A6F0;
+    border-radius: 3px;
+    
+}
+.photo {
+    width: 700px;
+    height: 700px;
+}
